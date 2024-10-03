@@ -1,0 +1,135 @@
+{
+ "main": {
+    "name":"Lavanya Govindarajan",
+    "occupation":"Webster University",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"I am a master's student in Data Science with academic experience in Python, R, predictive modeling, and visualizations. I am passionate about leveraging data analysis and machine learning to drive impactful business decisions. As a software professional with 6.5 years of experience in application development within the telecommunications domain, I spearheaded the design and implementation of critical microservices for a cloud-native SaaS platform, optimizing data processes. I love taking initiatives at work, be it supporting women in tech through my role in the Corporate Responsibility Society or founding an international club to help new students navigate cultural differences. My commitment to fostering community and inclusivity drives me to create spaces where diverse voices can be heard.",
+    "contactmessage":"Technical skills",
+    "email":"connectwithgovindarajan@gmail.com",
+    "phone": "(314) 358-0650",
+    "address":{
+      "street":"7708 Bellstone Road",
+      "city":"Saint Louis",
+      "state":"MO",
+      "zip": "63119"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=61563746311232",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://x.com/LGovindara78937/",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/lavanyagovindarajan/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/govindlavanya/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/LavanyaGovindarajan/data-alchemy-lab",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"TECHNICAL SKILLS :",
+    "education":[
+      {
+        "school":"Webster University",
+        "degree":"Masters in Data Analytics",
+        "graduated":"May 2024",
+        "description":"• Data Analytics with Python and R  • Statistics and Data Analysis • Tableau and PowerBI • Databases, Datawarehouses and SQL • Big Data • ETL • Hadoop • Azure Cloud ",
+        "gpa":"3.92"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"85%"
+      },
+      {
+        "name":"Java",
+        "level":"85%"
+      },
+      {
+        "name":"R",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"95%"
+      },
+      {
+        "name":"Agile",
+        "level":"95%"
+      },
+      {
+        "name":"Big Data",
+        "level":"60%"
+      },
+      {
+        "name":"ETL",
+        "level":"75%"
+      },
+      {
+        "name":"Azure",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Customer Targeting", 
+        "category":"Classify customers to enhance targeting strategies.",
+        "image":"cust-target.jpg",
+        "url":"https://github.com/LavanyaGovindarajan/data-alchemy-lab/blob/main/Data%20Analysis%20and%20Modelling/CustomerSelection/pptx-readMe.md"
+      },
+      {
+        "title":"Mortgage Risk Analysis",
+        "category":"Analyze borrower behavior to predict default risks.",
+        "image":"risk-analysis.jpg",
+        "url":"https://github.com/LavanyaGovindarajan/data-alchemy-lab/blob/main/Data%20Analysis%20and%20Modelling/RiskAnalysis/pptx-readMe.md"
+      },
+      {
+        "title":"Energy Efficiency Analysis",
+        "category":"Analyzed building features to predict cooling load and optimize energy usage",
+        "image":"energy-eff.jpg",
+        "url":"https://github.com/LavanyaGovindarajan/data-alchemy-lab/blob/main/energy-efficiency-data-analysis.py"
+      },
+      {
+        "title":"Noodles Consumption Dashboard",
+        "category":"Create interactive dashboards for consumption insights.",
+        "image":"noodle-consump.png",
+        "url":"https://github.com/LavanyaGovindarajan/data-alchemy-lab/blob/main/viz/noodles-pptx-readMe.md"
+      }
+    ]
+  }
+}
